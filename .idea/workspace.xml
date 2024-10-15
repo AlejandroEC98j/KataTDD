@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c48b9c-fe7c-4ede-9df7-0f83fce8bdfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCpmjumto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCpmjumto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCpmjumto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestCpmjumto.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
